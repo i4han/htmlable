@@ -1,0 +1,22 @@
+{
+  "name": "htmlable",
+  "version": "0.0.1",
+  "description": "Expressing HTML trees with a concise syntax. It is forked from Meteor Blaze htmljs packages.",
+  "main": "html.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i4han/htmlable.git"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Isaac Han",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i4han/htmlable/issues"
+  },
+  "homepage": "https://github.com/i4han/htmlable#readme"
+}
